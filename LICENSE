@@ -1,0 +1,5 @@
+git add .
+git commit -m "Estructura final del proyecto lista"
+# Si ya creaste el repo en la web de GitHub:
+git push origin main
+
